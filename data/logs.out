@@ -1,0 +1,59 @@
+2022-07-30 21:17:08.421 | INFO     | server:startup_event:136 - Setup completed
+2022-07-30 21:18:16.574 | INFO     | server:predict:194 - Response Login
+2022-07-30 21:18:16.574 | INFO     | server:predict:194 | 
+ {'source': 'New York Times', 'url': '', 'title': 'Weis chooses not to make pickoff', 'description': "Bill Belichick won't have to worry about Charlie Weis raiding his coaching staff for Notre Dame. But we'll have to see whether new Miami Dolphins coach Nick Saban has an eye on any of his former assistants."} 
+ Prediction Sports, Latency 0.7659320831298828| 
+Response Login
+2022-07-31 17:14:56.983 | INFO     | project.app.server:startup_event:134 - Setup completed
+2022-07-31 17:14:57.276 | INFO     | project.app.server:predict:192 - Response Login
+2022-07-31 17:14:57.276 | INFO     | project.app.server:predict:192 | 
+ {'source': '', 'url': '', 'title': '', 'description': ''} 
+ Prediction Business, Latency 0.27936506271362305| 
+Response Login
+2022-07-31 17:14:57.283 | INFO     | project.app.server:shutdown_event:145 - Shutting down application
+2022-07-31 17:14:57.283 | INFO     | project.app.server:shutdown_event:145 | 
+ {'source': '', 'url': '', 'title': '', 'description': ''} 
+ Prediction Business, Latency 0.27936506271362305| 
+Shutting down application
+2022-07-31 17:15:00.284 | INFO     | project.app.server:predict:192 | 
+ {'source': 'El Pais', 'url': 'https://elpais.com/argentina/2022-07-31/el-poder-de-alberto-fernandez-se-apaga-en-argentina.html', 'title': 'El poder de Alberto Fernández se apaga en Argentina', 'description': 'Cristina Kirchner y Sergio Massa, sus socios en la coalición peronista del Gobierno, toman el control de la economía y limitan cada vez más al presidente'} 
+ Prediction Entertainment, Latency 0.19184017181396484| 
+Response Login
+2022-07-31 17:20:37.517 | INFO     | project.app.server:startup_event:134 - Setup completed
+2022-07-31 17:20:37.748 | INFO     | project.app.server:predict:192 - Response Login
+2022-07-31 17:20:37.748 | INFO     | project.app.server:predict:192 | 
+ {'source': '', 'url': '', 'title': '', 'description': ''} 
+ Prediction Business, Latency 0.212799072265625| 
+Response Login
+2022-07-31 17:20:37.751 | INFO     | project.app.server:shutdown_event:145 - Shutting down application
+2022-07-31 17:20:37.751 | INFO     | project.app.server:shutdown_event:145 | 
+ {'source': '', 'url': '', 'title': '', 'description': ''} 
+ Prediction Business, Latency 0.212799072265625| 
+Shutting down application
+2022-07-31 17:20:39.343 | INFO     | project.app.server:startup_event:134 - Setup completed
+2022-07-31 17:20:39.604 | INFO     | project.app.server:predict:192 - Response Login
+2022-07-31 17:20:39.604 | INFO     | project.app.server:predict:192 | 
+ {'source': 'Reuters World', 'url': '', 'title': 'Peru Arrests Siege Leader, to Storm Police Post', 'description': 'LIMA, Peru (Reuters) - Peruvian authorities arrested a former army major who led a three-day uprising in a southern  Andean town and will storm the police station where some of his  200 supporters remain unless they surrender soon, Prime  Minister Carlos Ferrero said on Tuesday.'} 
+ Prediction Entertainment, Latency 0.24776363372802734| 
+Response Login
+2022-07-31 17:20:39.606 | INFO     | project.app.server:shutdown_event:145 - Shutting down application
+2022-07-31 17:20:39.606 | INFO     | project.app.server:shutdown_event:145 | 
+ {'source': 'Reuters World', 'url': '', 'title': 'Peru Arrests Siege Leader, to Storm Police Post', 'description': 'LIMA, Peru (Reuters) - Peruvian authorities arrested a former army major who led a three-day uprising in a southern  Andean town and will storm the police station where some of his  200 supporters remain unless they surrender soon, Prime  Minister Carlos Ferrero said on Tuesday.'} 
+ Prediction Entertainment, Latency 0.24776363372802734| 
+Shutting down application
+2022-07-31 17:20:39.819 | INFO     | project.app.server:predict:192 | 
+ {'source': 'El Pais', 'url': 'https://elpais.com/argentina/2022-07-31/el-poder-de-alberto-fernandez-se-apaga-en-argentina.html', 'title': 'El poder de Alberto Fernández se apaga en Argentina', 'description': 'Cristina Kirchner y Sergio Massa, sus socios en la coalición peronista del Gobierno, toman el control de la economía y limitan cada vez más al presidente'} 
+ Prediction Entertainment, Latency 0.20261645317077637| 
+Response Login
+2022-07-31 17:20:41.406 | INFO     | project.app.server:startup_event:134 - Setup completed
+2022-07-31 17:20:41.662 | INFO     | project.app.server:predict:192 - Response Login
+2022-07-31 17:20:41.662 | INFO     | project.app.server:predict:192 | 
+ {'source': 'Reuters World', 'url': 'http://www.reuters.com/newsArticle.jhtml?type=worldNewsstoryID=7228962', 'title': 'Peru Arrests Siege Leader, to Storm Police Post', 'description': 'LIMA, Peru (Reuters) - Æ Peruvian aŰthorities arrested a former army major who led a three-day uprising in a southern  Andean town and will storm the police station where some of his  200 supporters remain unless they surrender soon, Prime  Minister Carlos Ferrero said on Tuesday.'} 
+ Prediction Entertainment, Latency 0.2520885467529297| 
+Response Login
+2022-07-31 17:20:41.671 | INFO     | project.app.server:shutdown_event:145 - Shutting down application
+2022-07-31 17:20:41.671 | INFO     | project.app.server:shutdown_event:145 | 
+ {'source': 'Reuters World', 'url': 'http://www.reuters.com/newsArticle.jhtml?type=worldNewsstoryID=7228962', 'title': 'Peru Arrests Siege Leader, to Storm Police Post', 'description': 'LIMA, Peru (Reuters) - Æ Peruvian aŰthorities arrested a former army major who led a three-day uprising in a southern  Andean town and will storm the police station where some of his  200 supporters remain unless they surrender soon, Prime  Minister Carlos Ferrero said on Tuesday.'} 
+ Prediction Entertainment, Latency 0.2520885467529297| 
+Shutting down application
+2022-07-31 22:13:16.487 | INFO     | server:startup_event:134 - Setup completed
